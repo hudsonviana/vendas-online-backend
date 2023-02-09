@@ -5,9 +5,9 @@ POST http://localhost:3000/user
 content-type: application/json
 
 {
-  "name": "Eliane",
+  "name": "Hudson",
   "email": "hudson@teste.com",
   "phone": "84988385145",
   "cpf": "12345678920",
-  "password": "senha nova"
+  "password": "teste456"
 }
